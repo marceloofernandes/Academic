@@ -7,7 +7,7 @@ Marcelo Oliveira Fernandes
 <span style="font-size:8pt"> m160109@g.unicamp.br  
 http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
-<img src="https://github.com/marceloofernandes/academic/blob/4c77d3615d4fba640951bd354622bae34c14c73c/pictures/IMG_7343%20copy_.jpg" width="100" >
+<img src="https://github.com/marceloofernandes/Academic/blob/963bb81ab1253b436b1dd0fe5b1861402a891b36/pictures/IMG_7343%20copy_.jpg" width="100" >
 
 ```
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
