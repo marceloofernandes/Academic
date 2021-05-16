@@ -26,4 +26,4 @@ References:
 
 - M. Shafi et al., “5G: A Tutorial Overview of Standards, Trials, Challenges, Deployment, and Practice,” in IEEE Journal on Selected Areas in Communications, vol. 35, no. 6, pp. 1201-1221, 2017.
 
-[Back to main page](https://marceloofernandes.github.io/unicamp/)
+[Back to main page](https://marceloofernandes.github.io/academic/)
