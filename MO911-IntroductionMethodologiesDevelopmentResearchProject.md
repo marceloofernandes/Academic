@@ -4,12 +4,13 @@
 
 **Semester:** 2020 2S
 
-**Professor:** Jacques Wainer and Ariadne Carvalho 
+**Professors:** Jacques Wainer and Ariadne Carvalho 
 
 **Summary:**  
+Introduction to scientific methodology, introduction to scientific writing, introduction to searching bibliographic databases, introduction to systematic review. Study of references related to the master's theme. Preparation and presentation of a master's thesis proposal. Oral presentations on topics related to the master's thesis proposal.
 
-**References:**
+**Oral presentation (webinar):**  
 
-
+[Automated Tracking System of Goods for the Wholesale and Retail Segments in the Food Industry](https://youtu.be/KG4xoP4RQVc)  
 
 [Back to main page](https://marceloofernandes.github.io/Academic/)
