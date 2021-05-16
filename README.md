@@ -29,14 +29,14 @@ Models and Protocols for Network Management. Wireless Network Management. Manage
 Introduction to scientific methodology, introduction to scientific writing, introduction to searching bibliographic databases, introduction to systematic review. Study of references related to the master's theme. Preparation and presentation of a master's thesis proposal. Oral presentations on topics related to the master's thesis proposal.
 
 
-The following disciplines were attended as a special student at Institute of Computing (IC) and at the School of Electrical and Computer Engineering [(FEEC)](https://www.fee.unicamp.br/?language=en), University of Campinas.
+The following disciplines were attended as a **special student** at Institute of Computing (IC) and at the School of Electrical and Computer Engineering [(FEEC)](https://www.fee.unicamp.br/?language=en), University of Campinas.
 
-### 2020 1st Semester
+### 2020 1st Semester - IC
 
-- **[MO611 - Teleprocessing and Networks]()**  
+- **[MO611 - Teleprocessing and Networks](MO611-TeleprocessingAndNetworks.md)**  
 Computer networks: local, metropolitan and long distance. OSI / ISO model and Internet TCP / IP architecture. Network management. High Speed Networks and Multimedia Applications.
 
-### 2018 2nd Semester
+### 2018 2nd Semester - IC
 
 - **[MO629A - Internet of Things - IoT]()**  
 Functional and technological requirements and recent advances for systems applied to the Internet of Things. Communication protocols and technologies applied to the Internet of Things. Design and implementation of systems for the Internet of Things.  
