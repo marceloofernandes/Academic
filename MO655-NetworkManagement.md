@@ -25,3 +25,5 @@ References:
 - Velasquez, K. et al., Fog orchestration for the Internet of Everything: state-of-the-art and research challenges. J. Internet Services and Applications 9(1): 14:1-14:23, 2018;
 
 - M. Shafi et al., “5G: A Tutorial Overview of Standards, Trials, Challenges, Deployment, and Practice,” in IEEE Journal on Selected Areas in Communications, vol. 35, no. 6, pp. 1201-1221, 2017.
+
+[Back to main page](README.md)
