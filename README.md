@@ -1,6 +1,6 @@
 # Welcome to my Academic Page
 
-This is a repository of my academic activities ordered by the most recent first.  
+This is a repository of my academic activities ordered by the most recent dates.  
 
 
 Marcelo Oliveira Fernandes  
