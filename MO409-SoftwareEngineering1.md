@@ -16,5 +16,8 @@ Software Verification and Validation (V&V). Static Verification Techniques: Revi
 
 - John Smart. BDD In Action. Behavior Driven Development for the whole software lifecycle. Manning, 2013.  
 
+- Paul Ammann and Jeff Offutt, Introduction to Software Testing, Cambridge University Press, Cambridge, UK, ISBN 0-52188-038-1, 2008.  
+- Robert Binder. Testing object-oriented systems: models, patterns, and tools. Editora Addison- Wesley Professional, 2000.
+
 
 [Back to main page](https://marceloofernandes.github.io/Academic/)
