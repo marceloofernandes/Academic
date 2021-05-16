@@ -5,7 +5,10 @@
 
 **Professor:** Edmundo R. M. Madeira 
 
-**Summary:** 
+**Summary:**  
+Network management: motivation and main components. SNMP and MIB protocol. Failure management, configuration, accounting, performance and security. Optical networks: control and management plans. Wireless networks: mobility and location management. Cognitive networks and autonomic management. Energy management. Computational cloud management.  
+
+
 
 **References:**
 
