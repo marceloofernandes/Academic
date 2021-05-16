@@ -1,15 +1,17 @@
-# Welcome to my UNICAMP Pages
+## Welcome to my UNICAMP Page
 
 This is a repository of my activities as a MSc/ PhD student at University of Campinas.
 
-## MSc student
-## 2021 1st Semester
+@Marcelo Oliveira Fernandes
 
-### [MO655 - Network Management](MO655-NetworkManagement.md)
+### MSc student
+### 2021 1st Semester
 
-### MO409 - Software Engineering I
+#### [MO655 - Network Management](MO655-NetworkManagement.md)
 
-## Special student
+#### MO409 - Software Engineering I
+
+### Special student
 
 
 
