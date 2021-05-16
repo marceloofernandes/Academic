@@ -13,13 +13,15 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 Current log as a MSc student of Computer Science at Institute of Computing, University of Campinas, Brazil.  
 
-![](https://github.com/marceloofernandes/Academic/blob/963bb81ab1253b436b1dd0fe5b1861402a891b36/pictures/IMG_7343%20copy_.jpg)  
-
 ### 2021 1st Semester
 
 - **[MO409 - Software Engineering I](MO409-SoftwareEngineering1.md)**  
+Software Verification and Validation (V&V). Static Verification Techniques: Reviews and Inspection. Static Code Analysis. Security Analysis. Dynamic Verification Techniques: Symbolic execution. Tests. Software Tests: Concepts. White box, black box and defect-based techniques. Model-Based Tests. Tests of non-functional requirements. Scope of tests (Units, Integration, Systems, Regression, Acceptance). Agile tests. Automation of tests. Test management.  
 
-- **[MO655 - Network Management](MO655-NetworkManagement.md)**
+
+- **[MO655 - Network Management](MO655-NetworkManagement.md)**  
+Models and Protocols for Network Management. Wireless Network Management. Management of Optical Networks. Cognitive Networks and Autonomic Computing. Internet of the Future: SDN and NFV. Internet of the Future: Smart Cities. 5G and Internet of Things. Cloud and Mist Computing and Communication. Communication and Big Data.  
+
 
 ### 2020 2nd Semester
 
