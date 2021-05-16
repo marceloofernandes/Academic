@@ -4,7 +4,6 @@ This is a repository of my academic activities ordered by the most recent first.
 
 
 
-
 Marcelo Oliveira Fernandes  
 m160109@g.unicamp.br  
 http://www.linkedin.com/in/marcelooliveirafernandes  
