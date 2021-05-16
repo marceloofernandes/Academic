@@ -1,12 +1,13 @@
-# Discipline: MO655 - Network Management
+# Discipline: MO655 - Network Management  
+[Unicamp Portal](https://www.dac.unicamp.br/portal/caderno-de-horarios/2021/1/S/P/IC/MO409)
 
-Semester: 2021 1S
+**Semester:** 2021 1S
 
-Professor: Edmundo R. M. Madeira
+**Professor:** Edmundo R. M. Madeira 
 
+**Summary:** 
 
-
-References:
+**References:**
 
 - Tanenbaum , A.S. – “Computer Networks”, Fifth Edition, Pearson;
 
@@ -26,4 +27,4 @@ References:
 
 - M. Shafi et al., “5G: A Tutorial Overview of Standards, Trials, Challenges, Deployment, and Practice,” in IEEE Journal on Selected Areas in Communications, vol. 35, no. 6, pp. 1201-1221, 2017.
 
-[Back to main page](https://marceloofernandes.github.io/academic/)
+[Back to main page](https://marceloofernandes.github.io/Academic/)
