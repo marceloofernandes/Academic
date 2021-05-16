@@ -1,15 +1,16 @@
 ## Welcome to my UNICAMP Page
 
-This is a repository of my activities as a MSc/ PhD student at University of Campinas.
+This is a repository of my activities as a MSc/ PhD student of Computer Science at University of Campinas.
 
 @Marcelo Oliveira Fernandes
 
-### MSc student
+### MSc student at Institute of Computing
+
 ### 2021 1st Semester
 
-#### [MO655 - Network Management](MO655-NetworkManagement.md)
+- **[MO655 - Network Management](MO655-NetworkManagement.md)**
 
-#### MO409 - Software Engineering I
+- **MO409 - Software Engineering I**
 
 ### Special student
 
@@ -41,13 +42,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marceloofernandes/marceloofernandes.gitbub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
