@@ -1,8 +1,15 @@
-## Welcome to my UNICAMP Page
+## Welcome to my Academic Page
 
-This is a repository of my activities as a MSc/ PhD student of Computer Science at University of Campinas.
+This is a repository of my academic activities ordered by the most recent ones first.
 
-@Marcelo Oliveira Fernandes
+Enjoy it!
+
+Marcelo Oliveira Fernandes
+
+
+as a MSc/ PhD student of Computer Science at University of Campinas.
+
+@
 
 ### MSc student at Institute of Computing
 
