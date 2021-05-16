@@ -12,7 +12,29 @@ This is a repository of my activities as a MSc/ PhD student of Computer Science 
 
 - **MO409 - Software Engineering I**
 
-### Special student
+### 2020 2nd Semester
+
+- **MO911A - Introdução às Metodologias para Elaboração de Projeto de Pesquisa**
+
+
+### Special student at Institute of Computing
+
+### 2020 1st Semester
+
+- **MO611 - Teleprocessamento e Redes**
+Redes de computadores: locais, metropolitanas e de longa distância. Modelo OSI/ISO e Arquitetura Internet TCP/IP. Gerenciamento de redes. Redes de Alta Velocidade e Aplicações Multimídia.
+
+### 2018 2nd Semester
+
+- **MO629A - Internet of Things - IoT**
+
+
+### Special student at Faculty of FEEC
+
+- **SDN/NFV Networks**
+- **Smart Cities**
+- **Mobile Communications**
+- **Mobile Robotics**
 
 
 
