@@ -13,6 +13,8 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 Current log as a MSc student of Computer Science at Institute of Computing, University of Campinas, Brazil.  
 
+![](https://github.com/marceloofernandes/Academic/blob/963bb81ab1253b436b1dd0fe5b1861402a891b36/pictures/IMG_7343%20copy_.jpg)  
+
 ### 2021 1st Semester
 
 - **[MO409 - Software Engineering I](MO409-SoftwareEngineering1.md)**  
