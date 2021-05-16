@@ -4,7 +4,7 @@ This is a repository of my academic activities ordered by the most recent first.
 
 
 Marcelo Oliveira Fernandes  
-<span style="font-size:8pt">m160109@g.unicamp.br  
+<span style="font-size:8pt"> m160109@g.unicamp.br  
 http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 <img src="https://github.com/marceloofernandes/academic/blob/4c77d3615d4fba640951bd354622bae34c14c73c/pictures/IMG_7343%20copy_.jpg" width="100">
