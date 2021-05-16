@@ -13,4 +13,6 @@ Introduction to scientific methodology, introduction to scientific writing, intr
 
 [Automated Tracking System of Goods for the Wholesale and Retail Segments in the Food Industry](https://youtu.be/KG4xoP4RQVc)  
 
+[Deck file](https://github.com/marceloofernandes/Academic/blob/3dc7d870df1623aa98a0b0e8fc4be32ea040ef06/files/RA160109_Marcelo.pdf)
+
 [Back to main page](https://marceloofernandes.github.io/Academic/)
