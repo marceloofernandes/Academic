@@ -11,7 +11,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 ---
 
-Current log as a MSc. student of Computer Science at Institute of Computing - IC, University of Campinas, Brazil. This MSc. course started in Sep 2020.  
+Current log as a MSc. student of Computer Science at Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil. This MSc. course started in Sep 2020.  
 
 ### 2021 1st Semester
 
@@ -33,12 +33,14 @@ The following disciplines were attended as a special student at Institute of Com
 
 ### 2020 1st Semester
 
-- **MO611 - Teleprocessamento e Redes**  
-Redes de computadores: locais, metropolitanas e de longa distância. Modelo OSI/ISO e Arquitetura Internet TCP/IP. Gerenciamento de redes. Redes de Alta Velocidade e Aplicações Multimídia.
+- **[MO611 - Teleprocessing and Networks]()**  
+Computer networks: local, metropolitan and long distance. OSI / ISO model and Internet TCP / IP architecture. Network management. High Speed Networks and Multimedia Applications.
 
 ### 2018 2nd Semester
 
-- **MO629A - Internet of Things - IoT**
+- **[MO629A - Internet of Things - IoT]()**  
+Functional and technological requirements and recent advances for systems applied to the Internet of Things. Communication protocols and technologies applied to the Internet of Things. Design and implementation of systems for the Internet of Things.  
+
 
 
 ## Special student at Faculty of FEEC
