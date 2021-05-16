@@ -15,9 +15,9 @@ Current log as a MSc student of Computer Science at Institute of Computing, Univ
 
 ### 2021 1st Semester
 
-- **[MO655 - Network Management](MO655-NetworkManagement.md)**
+- **[MO409 - Software Engineering I](MO409-SoftwareEngineering1.md)**  
 
-- **[MO409 - Software Engineering I](MO409-SoftwareEngineering1.md)**
+- **[MO655 - Network Management](MO655-NetworkManagement.md)**
 
 ### 2020 2nd Semester
 
