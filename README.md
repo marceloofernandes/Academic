@@ -25,7 +25,7 @@ Models and Protocols for Network Management. Wireless Network Management. Manage
 
 ### 2020 2nd Semester
 
-- **MO911A - Introdução às Metodologias para Elaboração de Projeto de Pesquisa**  
+- **[MO911A - Introdução às Metodologias para Elaboração de Projeto de Pesquisa](MO911-IntroductionMethodologiesDevelopmentResearchProject.md)**  
 Introduction to scientific methodology, introduction to scientific writing, introduction to searching bibliographic databases, introduction to systematic review. Study of references related to the master's theme. Preparation and presentation of a master's thesis proposal. Oral presentations on topics related to the master's thesis proposal.
 
 
