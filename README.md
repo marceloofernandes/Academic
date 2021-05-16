@@ -11,7 +11,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 ---
 
-Current log as a MSc student of Computer Science at Institute of Computing, University of Campinas, Brazil.  
+Current log as a MSc. student of Computer Science at Institute of Computing - IC, University of Campinas, Brazil. This MSc. course started in Sep 2020.  
 
 ### 2021 1st Semester
 
@@ -25,11 +25,11 @@ Models and Protocols for Network Management. Wireless Network Management. Manage
 
 ### 2020 2nd Semester
 
-- **[MO911A - Introdução às Metodologias para Elaboração de Projeto de Pesquisa](MO911-IntroductionMethodologiesDevelopmentResearchProject.md)**  
+- **[MO911A - Introduction to Methodologies for Development of Research Project](MO911-IntroductionMethodologiesDevelopmentResearchProject.md)**  
 Introduction to scientific methodology, introduction to scientific writing, introduction to searching bibliographic databases, introduction to systematic review. Study of references related to the master's theme. Preparation and presentation of a master's thesis proposal. Oral presentations on topics related to the master's thesis proposal.
 
 
-## Special student at Institute of Computing
+The following disciplines were attended as a special student at Institute of Computing (IC) and at the School of Electrical and Computer Engineering [(FEEC)](https://www.fee.unicamp.br/?language=en), University of Campinas.
 
 ### 2020 1st Semester
 
