@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my UNICAMP Pages
+
+This is a repository of my activities at University of Campinas, as a Master of Science student (a.k.a. regular student) and special student. 
 
 You can use the [editor on GitHub](https://github.com/marceloofernandes/marceloofernandes.gitbub.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
