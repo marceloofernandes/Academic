@@ -1,10 +1,16 @@
 ## Welcome to my Academic Page
 
-This is a repository of my academic activities ordered by the most recent ones first.
+This is a repository of my academic activities ordered by the most recent first.
 
-Enjoy it!
 
-Marcelo Oliveira Fernandes
+
+
+Marcelo Oliveira Fernandes  
+m160109@g.unicamp.br  
+http://www.linkedin.com/in/marcelooliveirafernandes  
+
+<img src="https://github.com/marceloofernandes/academic/blob/4c77d3615d4fba640951bd354622bae34c14c73c/pictures/IMG_7343%20copy_.jpg" width="100">
+
 
 
 as a MSc/ PhD student of Computer Science at University of Campinas.
