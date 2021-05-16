@@ -5,7 +5,7 @@ This is a repository of my activities as a MSc/ PhD student at University of Cam
 ## MSc student
 ## 2021 1st Semester
 
-### [MO655 - Network Management](docs/MO655-NetworkManagement.md)
+### [MO655 - Network Management](unicamp/MO655-NetworkManagement.md)
 
 ### MO409 - Software Engineering I
 
