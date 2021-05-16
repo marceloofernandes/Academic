@@ -1,6 +1,18 @@
-## Welcome to my UNICAMP Pages
+# Welcome to my UNICAMP Pages
 
-This is a repository of my activities at University of Campinas, as a Master of Science student (a.k.a. regular student) and special student. 
+This is a repository of my activities as a MSc/ PhD student at University of Campinas.
+
+## MSc student
+## 2021 1st Semester
+
+### MO655 - Network Management
+
+### MO409 - Software Engineering I
+
+## Special student
+
+
+
 
 You can use the [editor on GitHub](https://github.com/marceloofernandes/marceloofernandes.gitbub.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
