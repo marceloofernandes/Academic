@@ -16,7 +16,7 @@
 
 **Oral presentation (webinar):**
 
-- A Survey on Fusion-Based Indoor Positioning (webinar not available)
+- A Survey on Fusion-Based Indoor Positioning ([webinar in *Portuguese*](https://youtu.be/3M8XEVF39uE))
 
 - [Deck file](https://github.com/marceloofernandes/Academic/blob/f097a212b9cafc5e429ae2c16f533aa5378f082b/files/ASurveyonFusion-BasedIndoorPositioningMarceloRA160109.pdf)
 
