@@ -1,23 +1,27 @@
-# Discipline: MO611 - Teleprocessing and Networks 
-[Unicamp Portal](https://www.dac.unicamp.br/portal/caderno-de-horarios/2021/1/S/P/IC/MO611)
+# Discipline: MO629A - Internet of Things - IoT
+[Unicamp Portal](https://www.dac.unicamp.br/portal/caderno-de-horarios/2018/2/S/P/IC/MO629)
 
-**Semester:** 2020 1S
+**Semester:** 2018 2S
 
-**Professor:**  Luiz Fernando Bittencourt
+**Professor:**  Juliana Freitag Borin
 
 **Summary:**  
-- Computer networks: local, metropolitan and long distance. OSI / ISO model and Internet TCP / IP architecture. Network management. High Speed Networks and Multimedia Applications.
+- Functional and technological requirements and recent advances for systems applied to the Internet of Things. Communication protocols and technologies applied to the Internet of Things. Design and implementation of systems for the Internet of Things.
 
 **References:**  
-- Kurose, J. e Ross, K.W. – “Computer Networking: A Top-Down Approach”, Seventh Edition, Pearson;  
-- Tanenbaum, A.S. - Computer Networks - Third Edition Prentice Hall, 1996;  
-- Soares, L. F. G e outros - Redes de Computadores: Das LANs, MANs e WANs as Redes ATMÞ - Editora Campus, 1996.  
+- Jean-Philippe Vasseur and Adam Dunkels. 2010. Interconnecting Smart Objects with IP: The Next Internet. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA.
+
+- Zach Shelby and Carsten Bormann. 2010. 6LoWPAN: The Wireless Embedded Internet. Wiley Publishing.
+
+- Jim Kurose and Keith Ross. 2012. Computer Networking a Top Down Approach. Addison-Wesley, 6th edition.
 
 
-**Oral presentation (webinar):**
+**Final Project: "An Overview of the IoT Smart Agriculture in Brazil" (webinar):**
 
-A Survey on Fusion-Based Indoor Positioning
+- (video not available)
 
-[Deck file]()
+- [Deck file](https://github.com/marceloofernandes/Academic/blob/ce5f55fb174fcfe84ab95c2d55776212987e4718/files/MO629_Project_MarceloFernandes_ra160109_final.pdf)
+
+- [Case study](https://github.com/marceloofernandes/Academic/blob/ce5f55fb174fcfe84ab95c2d55776212987e4718/files/An_Overview_of_the_IoT_Smart_Agriculture_in_Brazil.pdf)
 
 [Back to main page](https://marceloofernandes.github.io/Academic/)
