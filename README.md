@@ -14,8 +14,40 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 <span style="font-size:8pt"> Last update: 2021.05.17 </span>  
 
 ---
+### 2021 - 1st Semester   
 
-> ## Current records as a **MSc. student** of Computer Science at Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil. This MSc. course started in Sep 2020 and the expected end date is in Dec 2022. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
+> This is a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing (IC), University of Campinas, Brazil.  
+
+*"The course in Computer Networks - University Extension Modality, which consists of a set of disciplines that are the new technological trends, such as IoT, virtualization for networks, cloud computing, SDN and Deep Learning for networks . The course provides a theoretical and practical basis to help the student to have the best understanding of the content presented and to allow them to get deeper into the concepts of new technologies for the areas of computer networks."* (free translation) - [http://espredes.ic.unicamp.br/](http://espredes.ic.unicamp.br/)
+
+
+It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are the subjects:  
+
+- [x]  INF516 Introduction to Computer Networks
+- [x]  INF540 Programming for Computer Networks
+- [x]  INF570 Information Security
+- [x]  INF505 Introduction to Wireless Data Networks
+- [ ]  INF518 Techniques for Learning Machines for Computer Networks (WIP)
+- [ ]  INF530 Deep Learning for Computer Networks
+- [ ]  INF534 Practical TCP / IP
+- [ ]  INF550 Cloud Computing I (WIP)
+- [ ]  INF536 IoT Systems Design and Operation Principles
+- [ ]  INF537 Embedded Systems Programming for IoT
+- [ ]  INF538 IoT Communication Technologies
+- [ ]  INF539 IoT Project
+- [ ]  INF554 Cloud Computing II
+- [ ]  INF555 Virtualization of Computer Networks and Systems
+- [ ]   INF556 Software Defined Networks
+
+Legend:  
+
+- [x]       Complete
+- [ ]       To go
+-  (WIP)    Work In Progress  
+
+---
+
+> ## **Master of Science (MSc.)** of Computer Science at Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil. This MSc. course started in Sep 2020 and the expected end date is in Dec 2022. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
 
 ### 2021 - 1st Semester
 
@@ -57,33 +89,16 @@ Functional and technological requirements and recent advances for systems applie
 - **Mobile Robotics**
 
 ---
-### 2021 - 1st Semester (one more record)  
 
-> Besides the MSc., I am also enrolled in a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing (IC), University of Campinas.  
+> Specializations
 
-*"The course in Computer Networks - University Extension Modality, which consists of a set of disciplines that are the new technological trends, such as IoT, virtualization for networks, cloud computing, SDN and Deep Learning for networks . The course provides a theoretical and practical basis to help the student to have the best understanding of the content presented and to allow them to get deeper into the concepts of new technologies for the areas of computer networks."* (free translation) - http://espredes.ic.unicamp.br/
+- MBA in Project Management – Fundacao Getulio Vargas – 2004.  
+- Specialization in Telecommunications - PUC-MG - 1996.  
+- M.Sc. in Microwaves and Optoelectronics - University College London - 1995.
 
+> Graduation
 
-It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are the subjects:  
+- Electrical Engineering - PUC-MG - 1992. 
 
-- [x]  INF516 Introduction to Computer Networks
-- [x]  INF540 Programming for Computer Networks
-- [x]  INF570 Information Security
-- [x]  INF505 Introduction to Wireless Data Networks
-- [ ]  INF518 Techniques for Learning Machines for Computer Networks (WIP)
-- [ ]  INF530 Deep Learning for Computer Networks
-- [ ]  INF534 Practical TCP / IP
-- [ ]  INF550 Cloud Computing I (WIP)
-- [ ]  INF536 IoT Systems Design and Operation Principles
-- [ ]  INF537 Embedded Systems Programming for IoT
-- [ ]  INF538 IoT Communication Technologies
-- [ ]  INF539 IoT Project
-- [ ]  INF554 Cloud Computing II
-- [ ]  INF555 Virtualization of Computer Networks and Systems
-- [ ]   INF556 Software Defined Networks
-
-Legend:  
-
-- [x]       Complete
-- [ ]       To go
--  (WIP)    Work In Progress  
+> High School + Technical  
+- Electronics Technician - CEFET-MG - 1984.
