@@ -11,7 +11,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 
 
-<span style="font-size:8pt"> Last update: 2021.05.16 </span>  
+<span style="font-size:8pt"> Last update: 2021.05.17 </span>  
 
 ---
 
@@ -61,7 +61,7 @@ Functional and technological requirements and recent advances for systems applie
 
 > Besides the MSc., I am also enrolled in a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing (IC), University of Campinas.  
 
-*"The course in Computer Networks - University Extension Modality, which consists of a set of disciplines that are the new technological trends, such as IoT, virtualization for networks, cloud computing, SDN and Deep Learning for networks . The course provides a theoretical and practical basis to help the student to have the best understanding of the content presented and to allow them to get deeper into the concepts of new technologies for the areas of computer networks."* - http://espredes.ic.unicamp.br/
+*"The course in Computer Networks - University Extension Modality, which consists of a set of disciplines that are the new technological trends, such as IoT, virtualization for networks, cloud computing, SDN and Deep Learning for networks . The course provides a theoretical and practical basis to help the student to have the best understanding of the content presented and to allow them to get deeper into the concepts of new technologies for the areas of computer networks."* (free translation) - http://espredes.ic.unicamp.br/
 
 
 It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are the subjects:  
