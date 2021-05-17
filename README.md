@@ -12,7 +12,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 ---
 
-Current log as a **MSc. student** of Computer Science at Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil. This MSc. course started in Sep 2020.  
+ Current records as a **MSc. student** of Computer Science at Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil. This MSc. course started in Sep 2020. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
 
 ### 2021 - 1st Semester
 
