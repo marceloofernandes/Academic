@@ -16,7 +16,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 ---
 ### 2021 - 1st Semester   
 
-> This is a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing (IC), University of Campinas, Brazil.  
+> ## This is a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil.  
 
 *"The course in Computer Networks - University Extension Modality, which consists of a set of disciplines that are the new technological trends, such as IoT, virtualization for networks, cloud computing, SDN and Deep Learning for networks . The course provides a theoretical and practical basis to help the student to have the best understanding of the content presented and to allow them to get deeper into the concepts of new technologies for the areas of computer networks."* (free translation) - [http://espredes.ic.unicamp.br/](http://espredes.ic.unicamp.br/)
 
@@ -47,7 +47,7 @@ Legend:
 
 ---
 
-> ## **Master of Science (MSc.)** of Computer Science at Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil. This MSc. course started in Sep 2020 and the expected end date is in Dec 2022. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
+> ## **Master of Science (MSc.)** of Computer Science at Institute of Computing (IC), University of Campinas, Brazil. This MSc. course started in Sep 2020 and the expected end date is in Dec 2022. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
 
 ### 2021 - 1st Semester
 
@@ -90,15 +90,15 @@ Functional and technological requirements and recent advances for systems applie
 
 ---
 
-> Specializations
+> ## Specializations
 
 - MBA in Project Management – Fundacao Getulio Vargas – 2004.  
 - Specialization in Telecommunications - PUC-MG - 1996.  
 - M.Sc. in Microwaves and Optoelectronics - University College London - 1995.
 
-> Graduation
+> ## Graduation
 
 - Electrical Engineering - PUC-MG - 1992. 
 
-> High School + Technical  
+> ## High School + Technical  
 - Electronics Technician - CEFET-MG - 1984.
