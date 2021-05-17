@@ -45,7 +45,7 @@ Computer networks: local, metropolitan and long distance. OSI / ISO model and In
 
 ### 2018 - 2nd Semester - IC
 
-- **[MO629A - Internet of Things - IoT]()**  
+- **[MO629A - Internet of Things - IoT](MO629A-IoT.md)**  
 Functional and technological requirements and recent advances for systems applied to the Internet of Things. Communication protocols and technologies applied to the Internet of Things. Design and implementation of systems for the Internet of Things.  
 
 ---
