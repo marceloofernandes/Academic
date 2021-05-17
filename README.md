@@ -28,9 +28,9 @@ It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are th
 - [x]  INF570 Information Security
 - [x]  INF505 Introduction to Wireless Data Networks
 - [ ]  INF518 Techniques for Learning Machines for Computer Networks (WIP)
+- [ ]  INF550 Cloud Computing I (WIP)
 - [ ]  INF530 Deep Learning for Computer Networks
 - [ ]  INF534 Practical TCP / IP
-- [ ]  INF550 Cloud Computing I (WIP)
 - [ ]  INF536 IoT Systems Design and Operation Principles
 - [ ]  INF537 Embedded Systems Programming for IoT
 - [ ]  INF538 IoT Communication Technologies
