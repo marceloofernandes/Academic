@@ -102,3 +102,11 @@ Functional and technological requirements and recent advances for systems applie
 
 > ## High School + Technical  
 - Electronics Technician - CEFET-MG - 1984.
+
+---
+
+> ## Training
+
+- **Cloud**
+  - AWS
+    - AWS Cloud Practitioner Essentials: May 2021
