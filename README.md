@@ -14,7 +14,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 <span style="font-size:8pt"> Last update: 2021.06.01 </span>  
 
 ---
-### 2021 - 1st Semester   
+### 2021 - 1st Semester - IC   
 
 > ## This is a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil.  
 
@@ -49,7 +49,7 @@ Legend:
 
 > ## **Master of Science (MSc.)** of Computer Science at Institute of Computing (IC), University of Campinas, Brazil. This MSc. course started in Sep 2020 and the expected end date is in Dec 2022. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
 
-### 2021 - 1st Semester
+### 2021 - 1st Semester - IC
 
 - **[MO409 - Software Engineering I](MO409-SoftwareEngineering1.md)**  
 Software Verification and Validation (V&V). Static Verification Techniques: Reviews and Inspection. Static Code Analysis. Security Analysis. Dynamic Verification Techniques: Symbolic execution. Tests. Software Tests: Concepts. White box, black box and defect-based techniques. Model-Based Tests. Tests of non-functional requirements. Scope of tests (Units, Integration, Systems, Regression, Acceptance). Agile tests. Automation of tests. Test management.  
@@ -59,7 +59,7 @@ Software Verification and Validation (V&V). Static Verification Techniques: Revi
 Models and Protocols for Network Management. Wireless Network Management. Management of Optical Networks. Cognitive Networks and Autonomic Computing. Internet of the Future: SDN and NFV. Internet of the Future: Smart Cities. 5G and Internet of Things. Cloud and Mist Computing and Communication. Communication and Big Data.  
 
 
-### 2020 - 2nd Semester
+### 2020 - 2nd Semester - IC
 
 - **[MO911A - Introduction to Methodologies for Development of Research Project](MO911-IntroductionMethodologiesDevelopmentResearchProject.md)**  
 Introduction to scientific methodology, introduction to scientific writing, introduction to searching bibliographic databases, introduction to systematic review. Study of references related to the master's theme. Preparation and presentation of a master's thesis proposal. Oral presentations on topics related to the master's thesis proposal.
