@@ -97,7 +97,7 @@ Functional and technological requirements and recent advances for systems applie
 
 ---
 
-> ## Specializations
+> ## Other Postgraduate Studies
 
 - MBA in Project Management – Fundacao Getulio Vargas – 2004.  
 - Specialization in Telecommunications - PUC-MG - 1996.  
