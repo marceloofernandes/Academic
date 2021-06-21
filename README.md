@@ -11,7 +11,7 @@ http://www.linkedin.com/in/marcelooliveirafernandes  </span>
 
 
 
-<span style="font-size:8pt"> Last update: 2021.06.16 </span>  
+<span style="font-size:8pt"> Last update: 2021.06.21 </span>  
 
 ---
 ### 2021 - 1st Semester - IC   
@@ -28,9 +28,9 @@ It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are th
 - [x]  INF570 Information Security
 - [x]  INF505 Introduction to Wireless Data Networks
 - [x]  INF518 Techniques for Machine Learning for Computer Networks 
-- [x]  INF550 Cloud Computing I (WIP)
+- [x]  INF550 Cloud Computing I
 - [ ]  INF530 Deep Learning for Computer Networks (WIP)
-- [ ]  INF534 Practical TCP / IP
+- [ ]  INF534 Practical TCP / IP (WIP)
 - [ ]  INF536 IoT Systems Design and Operation Principles
 - [ ]  INF537 Embedded Systems Programming for IoT
 - [ ]  INF538 IoT Communication Technologies
