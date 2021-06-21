@@ -16,6 +16,9 @@
 - Cloud and Mist Computing and Communication
 - Communication and Big Data  
 
+**Webinar:**
+
+- [“Deep Learning in Mobile and Wireless Networking: A Survey”](https://www.youtube.com/watch?v=9GNhEzzAC7M) - presented in 14th June 2021.
 
 
 **References:**
