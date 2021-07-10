@@ -5,7 +5,7 @@ This is a repository of my academic activities ordered by the most recent dates.
 
 Marcelo Oliveira Fernandes  
 <span style="font-size:8pt"> m160109@g.unicamp.br  
-http://www.linkedin.com/in/marcelooliveirafernandes  </span>
+[http://www.linkedin.com/in/marcelooliveirafernandes](http://www.linkedin.com/in/marcelooliveirafernandes)  </span>
 
 <img src="pictures/IMG_7343 copy_.jpg" width="60" >  
 
@@ -29,7 +29,7 @@ It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are th
 - [x]  INF505 Introduction to Wireless Data Networks
 - [x]  INF518 Techniques for Machine Learning for Computer Networks 
 - [x]  INF550 Cloud Computing I
-- [ ]  INF530 Deep Learning for Computer Networks (WIP)
+- [x]  INF530 Deep Learning for Computer Networks
 - [ ]  INF534 Practical TCP / IP (WIP)
 - [ ]  INF536 IoT Systems Design and Operation Principles
 - [ ]  INF537 Embedded Systems Programming for IoT
