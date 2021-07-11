@@ -116,4 +116,4 @@ Functional and technological requirements and recent advances for systems applie
 
 - **Cloud**
   - AWS
-    - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/): WIP
+    - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/): (WIP)
