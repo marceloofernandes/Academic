@@ -11,7 +11,7 @@ Marcelo Oliveira Fernandes
 
 
 
-<span style="font-size:8pt"> Last update: 2021.07.10 </span>  
+<span style="font-size:8pt"> Last update: 2021.07.11 </span>  
 
 ---
 ### 2021 - 1st Semester - IC   
@@ -116,4 +116,4 @@ Functional and technological requirements and recent advances for systems applie
 
 - **Cloud**
   - AWS
-    - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/): May 2021
+    - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/): WIP
