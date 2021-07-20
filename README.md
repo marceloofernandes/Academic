@@ -21,7 +21,9 @@ Marcelo Oliveira Fernandes
 *"The course in Computer Networks - University Extension Modality, which consists of a set of disciplines that are the new technological trends, such as IoT, virtualization for networks, cloud computing, SDN and Deep Learning for networks . The course provides a theoretical and practical basis to help the student to have the best understanding of the content presented and to allow them to get deeper into the concepts of new technologies for the areas of computer networks."* (free translation) - [http://espredes.ic.unicamp.br/](http://espredes.ic.unicamp.br/)
 
 
-It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are the subjects:  
+It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are the subjects:
+
+n`be4#YuRc/[KaW
 
 - [x]  INF516 Introduction to Computer Networks
 - [x]  INF540 Programming for Computer Networks
