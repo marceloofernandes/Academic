@@ -23,8 +23,6 @@ Marcelo Oliveira Fernandes
 
 It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are the subjects:
 
-n`be4#YuRc/[KaW
-
 - [x]  INF516 Introduction to Computer Networks
 - [x]  INF540 Programming for Computer Networks
 - [x]  INF570 Information Security
