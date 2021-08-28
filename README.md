@@ -11,7 +11,7 @@ Marcelo Oliveira Fernandes
 
 
 
-<span style="font-size:8pt"> Last update: 2021.08.07 </span>  
+<span style="font-size:8pt"> Last update: 2021.08.28 </span>  
 
 ---
 ### 2021 - 1st Semester - IC   
@@ -31,13 +31,13 @@ It started in Feb 6th 2021 and it is going to end in Dec 18th 2021. These are th
 - [x]  INF550 Cloud Computing I
 - [x]  INF530 Deep Learning for Computer Networks
 - [x]  INF534 Practical TCP / IP
-- [ ]  INF536 IoT Systems Design and Operation Principles (WIP)
+- [x]  INF536 IoT Systems Design and Operation Principles
 - [ ]  INF554 Cloud Computing II (WIP)
-- [ ]  INF537 Embedded Systems Programming for IoT
-- [ ]  INF538 IoT Communication Technologies
-- [ ]  INF539 IoT Project
+- [ ]  INF538 IoT Communication Technologies (WIP)
 - [ ]  INF555 Virtualization of Computer Networks and Systems
-- [ ]   INF556 Software Defined Networks
+- [ ]  INF537 Embedded Systems Programming for IoT
+- [ ]  INF539 IoT Project
+- [ ]  INF556 Software Defined Networks
 
 Legend:  
 
