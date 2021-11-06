@@ -14,7 +14,7 @@ Marcelo Oliveira Fernandes
 <span style="font-size:8pt"> Last update: 2021.11.06 </span>  
 
 ---
-### 2021 - 1st Semester - IC   
+### 2021 - 2nd Semester - IC   
 
 > ## This is a 377 hours **Computer Networks Specialization Course - INF500**, in the Institute of Computing [(IC)](https://ic.unicamp.br/en/), University of Campinas, Brazil.  
 
