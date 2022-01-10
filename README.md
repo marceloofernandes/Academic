@@ -36,8 +36,8 @@ It started in Feb 6th 2021 and it finished in Dec 18th 2021. These are the subje
 - [x]  INF538 IoT Communication Technologies
 - [x]  INF555 Network Virtualization and Computational Systems
 - [x]  INF537 Embedded Systems Programming for IoT
-- [x]  INF556 Software Defined Networks (WIP)
-- [x]  INF539 IoT Project (WIP) 
+- [x]  INF556 Software Defined Networks
+- [x]  INF539 IoT Project
 
 ---
 
