@@ -11,7 +11,7 @@ Marcelo Oliveira Fernandes
 
 
 
-<span style="font-size:8pt"> Last update: 2022.01.10 </span>  
+<span style="font-size:8pt"> Last update: 2022.04.01 </span>  
 
 ---
 ### 2021 - 2nd Semester - IC   
@@ -41,7 +41,7 @@ It started in Feb 6th 2021 and it finished in Dec 18th 2021. These are the subje
 
 ---
 
-> ## **Master of Science (MSc.)** of Computer Science at Institute of Computing (IC), University of Campinas, Brazil. This MSc. course started in Sep 2020 and the expected end date is in Dec 2022. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
+> ## **Master of Science (MSc.)** of Computer Science at Institute of Computing (IC), University of Campinas, Brazil. This MSc. course started in Sep 2020 and it was cancelled in 2021 because I moved to Canada. Some disciplines were attended as a special student, meaning not enrolled as a MSc. student.
 
 ### 2021 - 1st Semester - IC
 
